@@ -1,5 +1,5 @@
 # Urban Disctionary
- A Discord BOT that uses a urban dictionary web scraper
+ A Discord Bot that uses a urban dictionary web scraper
  
 ## Commands
 
